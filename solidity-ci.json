@@ -1,0 +1,7 @@
+{
+    "fail_on_warning": false,
+    "fail_on_first_error": false,
+    "is_truffle_project": false,
+    "is_brownie_project": false
+  }
+  
