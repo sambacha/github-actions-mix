@@ -12,3 +12,12 @@ dist/
 # Don't copy in the Dockerfile itself or related files
 Dockerfile
 .dockerignore
+
+## Additional Python related
+__pycache__
+.history
+.hypothesis/
+.tox/
+build/
+reports/
+venv/

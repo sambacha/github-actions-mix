@@ -12,5 +12,5 @@ repos:
         hooks:
         -    id: isort
 
-    default_language_version:
+    - default_language_version:
         python: python3.7
