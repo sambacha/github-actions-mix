@@ -1,6 +1,6 @@
 """
 Solidity CI/CD Processor
-Checks the Solidity files in repo using Mythril and fails the build
+Checks the Solidity files in repo using Mythx and fails the build
 if there are errors in solidity files
 """
 
